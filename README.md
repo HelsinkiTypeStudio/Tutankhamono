@@ -1,4 +1,4 @@
-# Tutankhamono is an open source monospace display font
+# Tutankhamono monospace font
 
 ![Tutankhamono specimen](https://github.com/HelsinkiTypeStudio/Tutankhamono/blob/main/documentation/tutankhamono.png)
 
