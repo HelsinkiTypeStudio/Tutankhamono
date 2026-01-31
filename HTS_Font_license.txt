@@ -1,0 +1,43 @@
+Copyright 2025 The Tutankhamono Project Authors (https://github.com/HelsinkiTypeStudio/Tutankhamono)
+
+Font End User License Agreement (EULA)
+Helsinki Type Studio – June 2025
+
+Manufacturer: Helsinki Type Studio
+Manufacturer URL: helsinkitypestudio.com
+Designer: Juho Hiilivirta
+Designer URL: juhohiilivirta.com
+
+
+Key Points:
+– You can use this font for any Personal or Commercial purposes.
+– You can install the font on as many computers as you like.
+– You may not share, sell, sublicense, or modify the font.
+– You may not make a new font software from this font.
+
+
+1. License & Usage
+– You are granted the right to use this font for personal or commercial projects like print, ads, signage, and presentations.
+– All rights remain with Helsinki Type Studio and Juho Hiilivirta, the original designer.
+
+2. Installation
+– There is no limit to how many computers you may install the font on, as long as they are under your control (personal or company-owned).
+
+3. You are not allowed to
+– Share the font files with others (including clients or printers)
+– Sell or distribute the font in any form
+– Modify the font
+
+4. Embedding & Special Uses
+– Embedding in PDFs, apps or devices is allowed
+
+5. Warranty
+The font is provided “as is”, without any guarantees. If you run into issues, feel free to reach out.
+
+6. Credit
+If you include credits in your project, a simple mention is appreciated:
+"Typeface by Juho Hiilivirta / Helsinki Type Studio"
+
+7. Contact
+Email: mail(at)helsinkitypestudio.com
+
