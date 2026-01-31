@@ -8,10 +8,10 @@ Summon the people of the underworld as you give shape to their story.
 
 ## Key points
 
-- You can use this font for any **Personal or Commercial purposes**.
-- You can install the font on **as many computers as you like**.
-- You may **not share, sell, sublicense, or modify** the font.
-- You may **not make a new font software** from this font.
+- You may use this font for any **Personal or Commercial purposes**.
+- You may install the font on **as many computers as you like**.
+- **Feedback, issues, and contributions are welcome** and encouraged.
+- This font may **not be redistributed or released as a modified or derivative font project**.
 
 **Manufacturer:** Helsinki Type Studio  
 **Designer:** Juho Hiilivirta
