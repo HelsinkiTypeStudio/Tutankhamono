@@ -6,4 +6,4 @@
 # Name or Organization <email address> 
 
 Helsinki Type Studio <mail@helsinkitypestudio.com>
-Juho Hiilivirta <joho@juhohiilivirta.com>
+Juho Hiilivirta <juho@juhohiilivirta.com>
